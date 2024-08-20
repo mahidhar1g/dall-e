@@ -2,6 +2,14 @@
 
 This project is a full-stack AI image generation web application inspired by tools like DALL-E. It allows users to generate images based on text prompts using OpenAI's DALL-E API. The project is built using the MERN (MongoDB, Express, React, Node.js) stack and utilizes Tailwind CSS for styling and GIT for version control.
 
+## Screenshots
+
+### 1. Home Page
+![Alt text](/screenshots/home_page.png)
+
+### 2. Create Page
+![Create Page](/screenshots/create_page.png)
+
 ## Features
 
 - **AI Image Generation**: Generate images based on any text prompt using OpenAI's DALL-E API.
